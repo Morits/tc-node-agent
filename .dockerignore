@@ -4,3 +4,4 @@ node.tar.gz
 Dockerfile
 README.md
 .gitignore
+.dockerignore
